@@ -4,6 +4,16 @@
 # To create a release, dispatch the https://github.com/yt-dlp/yt-dlp/actions/workflows/release.yml workflow on master
 -->
 
+### 2024.01.05.0306
+
+#### Core changes
+- [Merge branch 'yt-dlp:master' into getcourse-ru](https://github.com/yt-dlp/yt-dlp/commit/0763788ed3bd46a4935e2988b22591355fcf5fad) by [pukkandan](https://github.com/pukkandan)
+- **cookies**: [Fix `--cookies-from-browser` with macOS Firefox profiles](https://github.com/yt-dlp/yt-dlp/commit/85b33f5c163f60dbd089a6b9bc2ba1366d3ddf93) ([#8909](https://github.com/yt-dlp/yt-dlp/issues/8909)) by [RalphORama](https://github.com/RalphORama)
+
+#### Extractor changes
+- **academymelie**: Add extractor; [GetCourseRuIE] extractor fixes by [pukkandan](https://github.com/pukkandan)
+- **bigo**: [Fix JSON extraction](https://github.com/yt-dlp/yt-dlp/commit/85a2d07c1f82c2082b568963d1c32ad3fc848f61) ([#8893](https://github.com/yt-dlp/yt-dlp/issues/8893)) by [DmitryScaletta](https://github.com/DmitryScaletta)
+
 ### 2023.12.30
 
 #### Core changes
