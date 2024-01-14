@@ -28,6 +28,7 @@
  - **AbemaTV**: [*abematv*](## "netrc machine")
  - **AbemaTVTitle**
  - **AcademicEarth:Course**
+ - **AcademyMel**: [*academymel*](## "netrc machine")
  - **acast**
  - **acast:channel**
  - **AcFunBangumi**
@@ -495,6 +496,7 @@
  - **gem.cbc.ca:playlist**
  - **Genius**
  - **GeniusLyrics**
+ - **GetCourseRu**: [*getcourseru*](## "netrc machine")
  - **Gettr**
  - **GettrStreaming**
  - **GiantBomb**
